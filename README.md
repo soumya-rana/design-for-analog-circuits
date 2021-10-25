@@ -9,3 +9,4 @@ collection of my simulation work done in the "design for analog circuits" course
 6. Linear regulators.
 7. First order active filters - low-pass, high-pass, band-pass and band-reject.
 8. Second order active filters - KRC low-pass, KRC high-pass, Twin-T notch and Multiple feedback band-pass filters.
+9. Oscillators - Op amp based relaxation oscillator, RC phase shift oscillator, three phase oscillator and wein bridge oscillator.
