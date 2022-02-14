@@ -12,3 +12,4 @@ collection of my simulation work done in the "design for analog circuits" course
 9. Oscillators - Op amp based relaxation oscillator, RC phase shift oscillator, three phase oscillator and wein bridge oscillator.
 10. Low frequency sensor amplifiers and phase tripler.
 11. Photoresistor optocoupler based voltage divider, voltage controlled oscillators and active gain compensated amplifier.
+12. Gyrator based circuits.
